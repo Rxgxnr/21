@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("⚡ Asistente Rápido de Blackjack")
+st.title("⚡ Asistente Rápido de Blackjack Hola Camilo")
 
 st.markdown("Ingresa el total de tu mano y la carta visible del dealer para obtener una recomendación automática.")
 
